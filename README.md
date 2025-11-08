@@ -1,5 +1,5 @@
 # COMP3005-Assignment3: Karim Rifai 101300239
-# Video Link:
+# Video Link: https://drive.google.com/file/d/1NRe33KhjOf7QhVRpZDABS34mncIQ4GxE/view?usp=sharing
 
 ## Setup Instructions
 ### Using Virtual Environment
